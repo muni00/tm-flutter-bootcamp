@@ -1,6 +1,35 @@
 void main() {
-  print("Hello World");
+  var ogrenciAdi = "Nihal";
+  var ogrenciYasi = 23;
+  var ogrenciBoyu = 1.78;
+  var ogrenciBasHarfi = "N";
+  var ogrenciDevamEdiyorMu = true;
 
+  print(ogrenciAdi);
+  print(ogrenciYasi);
+  print(ogrenciBoyu);
+  print(ogrenciBasHarfi);
+  print(ogrenciDevamEdiyorMu);
+
+  print("**************************************");
+
+  int urunId = 3428;
+  String urunAdi = "Kol Saati";
+  int urunAdeti = 100;
+  double urunFiyati = 149.99;
+  String urunTedarikci = "Rolex";
+
+  print("Ürün Id : $urunId");
+  print("Ürün Adı : $urunAdi");
+  print("Ürün Adeti : $urunAdeti");
+  print("Ürün Fiyatı : $urunFiyati tl");
+  print("Ürün Tedarikçici : $urunTedarikci");
+  print("**************************************");
+  int a = 100;
+  int b = 200;
+
+  print("$a ve $b toplamı : ${a + b}");
+  print("**************************************");
   // sabitler
   //final ve const
 
