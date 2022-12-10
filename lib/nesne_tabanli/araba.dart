@@ -9,7 +9,7 @@ class Araba {
   bool calisiyorMu;
 
   //Araba({required this.renk,required this.hiz,required this.calisiyorMu});
-  Araba({this.renk, this.hiz, this.calisiyorMu});
+  Araba({required this.renk, required this.hiz, required this.calisiyorMu});
 
   void calistir() {
     calisiyorMu = true;
