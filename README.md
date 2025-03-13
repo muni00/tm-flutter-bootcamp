@@ -8,3 +8,4 @@ Konularla alakalı konu anlatımlarını
   - değişken oluşturma için : https://medium.com/@nbahadir243/dartta-de%C4%9Fi%C5%9Fkenler-e7c3cc648074
 * Dart ve Flutter nedir? için : https://medium.com/@nbahadir243/flutter-ve-dart-programlama-dili-nedir-8062c6be53dc
 adreslerini ziyaret edebilirsin. Keyifli okumalar :)
+Dart ve Flutter a ait temeller oluşturulurken yazılan tüm kodlar bu repository de bulunmakta. 
