@@ -1,4 +1,4 @@
-  # tm-flutter-bootcamp
+# Dart Ve Flutter Hakkında
 Dart dilindeki temel konulara değinilen kodalar bulunan bir dart_dersleri projesi bulunmaktadır. 
 Konularla alakalı konu anlatımlarını 
 * Standart Programlama 
@@ -11,7 +11,7 @@ adreslerini ziyaret edebilirsin. Keyifli okumalar :)
 
 Dart ve Flutter a ait temeller oluşturulurken yazılan tüm kodlar bu repository de bulunmakta. 
 
-# tm-flutter-bootcamp-bitirme
+# Bootcamp Bitirme Projesi
 ### Uygulama Özellikleri
 - Kullanıcıyı bir splash screen karşılar ve uygulama günümüzde kullanılan bir yemek sipariş uygulaması adımlarını taklit eder.
 - Flutter Android olarak derlenen uygulamada 3. parti bileşenler kullanılmış ve block pattern kullanılarak programlanmıştır. 
